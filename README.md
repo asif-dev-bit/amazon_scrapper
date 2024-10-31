@@ -29,7 +29,6 @@ This is a Django project configured with Celery for background task processing, 
 2. **Create and Activate Virtual Environment**
 
    ```bash
-   Copy code
    python3 -m venv venv
    source venv/bin/activate
    ```
