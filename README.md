@@ -22,8 +22,8 @@ This is a Django project configured with Celery for background task processing, 
 1. **Clone the Repository**
 
    ```bash
-   git clone
-   cd
+   git clone https://github.com/asif-dev-bit/amazon_scrapper.git
+   cd amazon_scrapper
    ```
 
 2. **Create and Activate Virtual Environment**
